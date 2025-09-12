@@ -1,0 +1,10 @@
+[project]
+name = "WorkM8"
+version = "0.0.0"
+
+[tool.workm8.google_scraper]
+url = "https://www.google.com/about/careers/applications/jobs/results/?sort_by=relevance&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&q=%22Data%20Scientist%22%20%22Data%20Engineer%22%20%22ML%22%20%22AI%22%20%22Ops%22&skills=python%2C%20ml%2C%20data&location=Poland"
+
+[tool.workm8.google_agent]
+# pełny URL wyszukiwania Google Careers (możesz wkleić ten, którego wcześniej używałeś)
+url = "https://www.google.com/about/careers/applications/jobs/results/?sort_by=relevance&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&q=%22Data%20Scientist%22%20%22Data%20Engineer%22%20%22ML%22%20%22AI%22%20%22Ops%22&skills=python%2C%20ml%2C%20data&location=Poland"
