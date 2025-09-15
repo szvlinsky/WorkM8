@@ -8,10 +8,8 @@ from src.api.jooble.client import JoobleClient
 KEYWORDS = ["data scientist", "data engineer", "machine learning engineer", "ai engineer"]
 LOCATIONS = ["Poland"]
 
-# łączymy słowa kluczowe w jedno zapytanie
 KEYWORDS_QUERY = " OR ".join(KEYWORDS)
 
-# gdzie zapisywać dane
 RAW_DIR = Path("data/raw/jooble")
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 
