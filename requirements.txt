@@ -1,5 +1,3 @@
-playwright
-beautifulsoup4
 toml
 selenium
 webdriver-manager
