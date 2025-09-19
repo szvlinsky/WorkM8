@@ -5,3 +5,9 @@ pandas
 ipykernel
 jupyter
 streamlit
+qdrant_client
+openai>=1.0.0
+langchain
+transformers
+langchain_community
+sentence-transformers
