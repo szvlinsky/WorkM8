@@ -5,3 +5,4 @@ data
 src/scrap
 qdrant_storage
 pyproject.toml
+logs/
