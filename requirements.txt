@@ -11,3 +11,4 @@ langchain
 transformers
 langchain_community
 sentence-transformers
+pytest
