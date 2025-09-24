@@ -6,3 +6,4 @@ src/scrap
 qdrant_storage
 pyproject.toml
 logs/
+__init__.py
